@@ -1,0 +1,9 @@
+streamlit>=1.40
+opencv-python-headless>=4.9
+numpy
+pandas
+scipy
+matplotlib
+# opcional, para cámaras reales:
+# ultralytics
+imageio-ffmpeg
